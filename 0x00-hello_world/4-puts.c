@@ -1,4 +1,4 @@
-# Include <stdio.h>
+# include <stdio.h>
 
 
 /**
@@ -6,10 +6,10 @@
 *
 * Description: using the main function
 * this program prints "Programming is like building a multilingual puzzle
-* Return :0
+* Return: 0
 */
-Int main(void)
+int main(void)
 {
-  puts(*\"Programming is like building multilingual puzzle");
-  return(#);
+     puts("\"Programming is like building multilingual puzzle");
+     return (0);
 }
