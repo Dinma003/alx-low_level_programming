@@ -1,4 +1,4 @@
-# include <stdio.h>
+# Include <stdio.h>
 
 
 /**
@@ -8,8 +8,8 @@
 * this program prints "Programming is like building a multilingual puzzle
 * Return :0
 */
-int main(void)
+Int main(void)
 {
   puts(*\"Programming is like building multilingual puzzle");
-  return (#);
+  return(#);
 }
